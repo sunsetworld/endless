@@ -1,0 +1,16 @@
+{
+"companyName": "DefaultCompany",
+"productName": "endless",
+"productVersion": "1.1.2-preview.1",
+"dataUrl": "WebGL early build.data.unityweb",
+"wasmCodeUrl": "WebGL early build.wasm.code.unityweb",
+"wasmFrameworkUrl": "WebGL early build.wasm.framework.unityweb",
+"graphicsAPI": ["WebGL 1.0"],
+"webglContextAttributes": {"preserveDrawingBuffer": false},
+"splashScreenStyle": "Dark",
+"backgroundColor": "#231F20",
+"cacheControl": {"default": "must-revalidate"},
+"developmentBuild": false,
+"multithreading": false,
+"unityVersion": "2019.4.4f1"
+}
